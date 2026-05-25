@@ -1,0 +1,14 @@
+# Obsidian workspace (local state, don't sync)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# Plugin binaries
+.obsidian/plugins/*/main.js
+.obsidian/plugins/*/styles.css
+
+# Claude AI sessions
+.claudian/sessions/
+
+# OS files
+Thumbs.db
+.DS_Store
