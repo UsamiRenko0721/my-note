@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "obsidian": {
+      "command": "bunx",
+      "args": ["-y", "obsidian-notes-mcp"],
+      "env": {
+        "OBSIDIAN_API_KEY": "5e79ca304e8bf9754fedbe417da8b83d936cca360a9dd1a173885ed539648874",
+        "OBSIDIAN_REJECT_UNAUTHORIZED": "false"
+      }
+    }
+  }
+}
